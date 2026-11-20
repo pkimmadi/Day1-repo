@@ -1,0 +1,8 @@
+onfig --global user.email "you@example.com"
+git init
+git clone <repository-url>
+git status
+git add <file-name>
+git add .
+git commit -m "Descriptive commit message"
+

@@ -1,0 +1,20 @@
+pwd – Show current directory.
+ls – List files and directories
+ls -l – List files with details.
+ls -la – Show hidden files.
+cd – Change directory.
+cd .. – Go back one directory.
+mkdir – Create a directory.
+rmdir – Remove an empty directory.
+touch – Create a file.
+cp – Copy files.
+mv – Move or rename files.
+rm – Delete files.
+cat – Display file contents.
+vi – Edit a file.
+nano – Edit a file.
+chmod – Change file permissions.
+chown – Change file ownership.
+whoami – Display current username.
+sudo – Execute commands with elevated privileges.
+passwd – Change user password.
