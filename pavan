@@ -1,9 +1,2 @@
-git config --global user.name "Your Name"
-git config --global user.email "you@example.com"
-git init
-git clone <repository-url>
-git status
-git add <file-name>
-git add .
-git commit -m "Descriptive commit message"
+Hello This is pavan
 
